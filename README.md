@@ -1,7 +1,7 @@
 # github-3.1-lim-wei-jie 😊
 <!-- “Ctrl + Shift + V” (on Windows) or “Cmd + Shift + V” (on Mac), it will open the preview pane in a new window as oppose to side by side. -->
 
-Markdown help https://www.inflectra.com/Support/KnowledgeBase/KB725.aspx
+[Markdown help](https://www.inflectra.com/Support/KnowledgeBase/KB725.aspx)
 
 **<ins>Git command</ins>**
 
